@@ -1,0 +1,17 @@
+CONTAINER ID   IMAGE          COMMAND                  CREATED          STATUS                      PORTS                                       NAMES
+5814a66bddf2   sampleapp      "/bin/sh -c 'python3…"   2 minutes ago    Up 2 minutes                0.0.0.0:8080->8080/tcp, :::8080->8080/tcp   samplerunning
+6004b92d77e1   caacd5b6b541   "/bin/sh -c 'pip ins…"   30 minutes ago   Exited (2) 30 minutes ago                                               modest_golick
+be8f559fe71b   caacd5b6b541   "/bin/sh -c 'pip ins…"   31 minutes ago   Exited (2) 31 minutes ago                                               lucid_northcutt
+bcbb303b0ef9   caacd5b6b541   "/bin/sh -c 'pip ins…"   33 minutes ago   Exited (2) 33 minutes ago                                               inspiring_morse
+84a7d37792a9   caacd5b6b541   "/bin/sh -c 'pip ins…"   34 minutes ago   Exited (2) 34 minutes ago                                               dazzling_gauss
+6189247c324d   caacd5b6b541   "/bin/sh -c 'pip ins…"   38 minutes ago   Exited (2) 38 minutes ago                                               pensive_solomon
+89353a1620dc   caacd5b6b541   "/bin/sh -c 'pip ins…"   39 minutes ago   Exited (2) 38 minutes ago                                               nifty_kilby
+22054d1a46bb   caacd5b6b541   "/bin/sh -c 'pip ins…"   40 minutes ago   Exited (2) 39 minutes ago                                               hardcore_buck
+3e123560c340   caacd5b6b541   "/bin/sh -c 'pip ins…"   40 minutes ago   Exited (2) 40 minutes ago                                               elastic_euclid
+e57f1429924e   caacd5b6b541   "/bin/sh -c 'pip ins…"   40 minutes ago   Exited (2) 40 minutes ago                                               vigorous_payne
+9ac9a04cce95   caacd5b6b541   "/bin/sh -c 'pip ins…"   42 minutes ago   Exited (2) 42 minutes ago                                               hopeful_jang
+8bb46b114256   caacd5b6b541   "/bin/sh -c 'pip ins…"   45 minutes ago   Exited (2) 45 minutes ago                                               admiring_burnell
+f84e0b961db0   caacd5b6b541   "/bin/sh -c 'pip ins…"   48 minutes ago   Exited (2) 48 minutes ago                                               confident_diffie
+a12e90e0753d   caacd5b6b541   "/bin/sh -c 'pip ins…"   50 minutes ago   Exited (2) 50 minutes ago                                               cranky_joliot
+b8082d3a6adc   caacd5b6b541   "/bin/sh -c 'pip ins…"   55 minutes ago   Exited (2) 55 minutes ago                                               affectionate_elgamal
+82c8d0dde7d0   caacd5b6b541   "/bin/sh -c 'pip ins…"   58 minutes ago   Exited (2) 58 minutes ago                                               goofy_villani
